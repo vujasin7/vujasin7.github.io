@@ -1,0 +1,1051 @@
+.hidden,
+.hidden * {
+    pointer-events: none;
+    visibility: hidden;
+}
+
+.desktop-1{
+    align-items: center;
+    background-color: var(--white);
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    height: 2920px;
+    width: 1440px;
+}
+
+.registracija-domena{
+    color: var(--black);
+    font-weight: 400;
+    line-height: normal;
+    margin-right: 85px;
+    margin-top: 62px;
+    min-height: 35px;
+    min-width: 273px;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.sveKartice {
+    align-items: flex-start;
+    display: flex;
+    gap: 20.99px;
+    margin-left: 100px;
+    margin-top: 103px;
+    position: relative;
+    width: fit-content;
+}
+
+.sveKarticeBus {
+    align-items: flex-start;
+    display: flex;
+    gap: 17.56px;
+    margin-left: 120px;
+    margin-right: 0px;
+    margin-top: 78px;
+    position: relative;
+    width: 1137px;
+}
+
+
+.card {
+    align-items: flex-start;
+    background-color: var(--white);
+    border-radius: 12.28px;
+    box-shadow: 0px 0px 15.39px #c6cfe299;
+    display: flex;
+    flex-direction: column;
+    gap: 47px;
+    padding: 27.98px 20.99px 20.99px;
+    position: relative;
+    width: 273px;
+}
+
+.frame-48502 {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    gap: 62.96px;
+    position: relative;
+}
+
+.frame-48499 {
+    align-items: center;
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    gap: 40.58px;
+    justify-content: center;
+    position: relative;
+}
+
+.container {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    gap: 20.47px;
+    position: relative;
+}
+
+
+.header {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    gap: 11.26px;
+    position: relative;
+}
+
+.vps-server {
+    color: var(--chicago);
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: -1.02px;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+}
+
+.price-and-button {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    gap: 24.57px;
+    position: relative;
+}
+
+.price {
+    align-items: center;
+    align-self: stretch;
+    display: flex;
+    gap: 4.09px;
+    position: relative;
+}
+
+.frame-48500 {
+    align-items: center;
+    display: flex;
+    flex: 1;
+    gap: 4.2px;
+    justify-content: center;
+    position: relative;
+}
+
+.address {
+    color: rgba(52,99,232,1);
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: -1.4px;
+    margin-left: -2.18px;
+    position: relative;
+    width: fit-content;
+}
+
+.text {
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: fit-content;
+}
+
+.mesecno-roboto {
+    color: rgba(75,87,104,1);
+    font-weight: 400;
+    line-height: normal;
+    margin-right: -2.18px;
+    position: relative;
+    width: fit-content;
+}
+
+.bottom {
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    gap: 12.28px;
+    position: relative;
+}
+
+.feature {
+    align-items: center;
+    align-self: stretch;
+    display: flex;
+    gap: 17.4px;
+    position: relative;
+}
+
+.Dugme {
+    height: 41px;
+    min-width: 175px;
+    position: relative;
+}
+
+.overlap-group {
+    padding: 7px 45px;
+}
+
+.desktop-1 .overlap{
+    align-items: flex-start;
+    border: 1px solid;
+    border-color: rgba(25,29,35,1);
+    border-radius: 10px;
+    display: flex;
+    height: 41px;
+    min-width: 173px;
+}
+
+.desktop-4 .overlap{
+    align-items: flex-start;
+    border: 1px solid;
+    border-color: rgba(25,29,35,1);
+    border-radius: 10px;
+    display: flex;
+    height: 41px;
+    min-width: 173px;
+}
+
+.Dugme-Ponuda{
+    cursor: pointer;
+    height: 41px;
+    min-width: 175px;
+    position: relative;
+}
+
+.dugmetext{
+    color: rgba(25,29,35,1);
+    font-weight: 400;
+    line-height: normal;
+    min-height: 23px;
+    white-space: normal;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    font-size: 20px;
+}
+
+
+.Dugme-Ponuda{
+    margin-right: -2px;
+    height: 41px;
+    min-width: 175px;
+    position: relative;
+}
+
+.DugmiciLogo{
+
+    align-items: center;
+    display: flex;
+    gap: 74px;
+    justify-content: center;
+    margin-left: 150px;
+    margin-top: 41px;
+    position: relative;
+    width: fit-content;
+}
+
+.Dugmici {
+    align-items: flex-start;
+    display: flex;
+    gap: 91px;
+    position: relative;
+    width: fit-content;
+}
+
+.naslov {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    margin-left: 57px;
+    margin-top: 60px;
+    position: relative;
+    width: fit-content;
+}
+
+.inter{font-family: Inter;}
+.roboto{font-family: Roboto;}
+
+.cyper-web {
+    color: black;
+    font-weight: 600;
+    line-height: 73.2px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+    font-size: 50px;
+}
+.naslovBus{
+    color: rgba(0,0,0,1);
+    font-weight: 600;
+    line-height: 73.2px;
+    margin-right: 82px;
+    margin-top: 97px;
+    min-width: 564px;
+    white-space: nowrap;
+    font-size: 60px;
+}
+
+.hosting {
+    color: black;
+    font-weight: 400;
+    line-height: normal;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+    font-size: 35px;
+}
+
+.ponudaime{
+    color:rgba(92,93,95,1);
+    line-height: 24px;
+    align-self: stretch;
+    font-weight: 400;
+    margin-top: -1.02px;
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+}
+
+.ponudaimeB{
+    color:rgb(239, 241, 245);
+    line-height: 24px;
+    align-self: stretch;
+    font-weight: 400;
+    margin-top: -1.02px;
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+}
+
+.cena{
+    color: rgba(52,99,232,1);
+    font-weight: 400;
+    line-height: 30px;
+    margin-left: -2.18px;
+    margin-top: -1.4px;
+    position: relative;
+    width: fit-content;
+    font-size: 35px;
+}
+
+.cenaB{
+    color: rgba(239, 241, 245);
+    font-weight: 400;
+    line-height: 30px;
+    margin-left: -2.18px;
+    margin-top: -1.4px;
+    position: relative;
+    width: fit-content;
+    font-size: 35px;
+}
+
+.cenaImesecno{
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    gap: 24.57px;
+    position: relative;
+}
+.cenaImesecnoBus{
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    gap: 17.56px;
+    position: relative;
+}
+
+.price{
+    align-items: center;
+    align-self: stretch;
+    display: flex;
+    gap: 4.09px;
+    position: relative;
+}
+
+.priceBus{
+    align-items: center;
+    align-self: stretch;
+    display: flex;
+    gap: 2.93px;
+    position: relative;
+}
+
+.zajedno{
+    align-items: center;
+    display: flex;
+    flex: 1;
+    gap: 4.2px;
+    justify-content: center;
+    position: relative;
+}
+.mesecno-roboto{
+    color: rgba(75, 87, 104, 1);
+    font-weight: 400;
+    line-height: normal;
+    margin-right: -2.18px;
+    position: relative;
+    width: fit-content;
+    font-size: 20px;
+}
+.mesecno-robotoB{
+    color: rgba(239, 241, 245);
+    font-weight: 400;
+    line-height: normal;
+    margin-right: -2.18px;
+    position: relative;
+    width: fit-content;
+    font-size: 20px;
+}
+
+
+.stavkeCard{
+    color:rgba(73,84,99,1);
+    flex:1;
+    font-weight: 400;
+    line-height: normal;
+    position: relative;
+    font-size: 25px;
+}
+
+.stavkeCardB{
+    color:rgba(239, 241, 245);
+    flex:1;
+    font-weight: 400;
+    line-height: normal;
+    position: relative;
+    font-size: 25px;
+}
+
+.dugmeOpsirnije{
+    align-items: center;
+    align-self: stretch;
+    border: 2px solid;
+    border-color: rgba(52,99,232,1);
+    border-radius: 4.09px;
+    cursor: pointer;
+    display: flex;
+    gap: 4.09px;
+    height: 45.04px;
+    justify-content: center;
+    padding: 6.14px 12.28px;
+    position: relative;
+}
+
+.dugmeWeb{
+    align-items: center;
+    align-self: stretch;
+    border: 2px solid;
+    border-color: rgba(52,99,232,1);
+    border-radius: 4.09px;
+    cursor: pointer;
+    display: flex;
+    gap: 4.09px;
+    height: 45.04px;
+    justify-content: center;
+    padding: 6.14px 12.28px;
+    position: relative;
+    width: 250px;
+}
+.dugmeKupite{
+    align-items: center;
+    align-self: stretch;
+    border: 1px solid;
+    border-color: rgba(52,99,232,1);
+    border-radius: 3px;
+    display: flex;
+    gap: 3px;
+    height: 32px;
+    justify-content: center;
+    padding: 4.4px 8.8px;
+    position: relative;
+}
+
+.dugmeKupiteB{
+    align-items: center;
+    align-self: stretch;
+    border: 1px solid;
+    border-color: rgba(255,255,255,1);
+    border-radius: 3px;
+    display: flex;
+    gap: 3px;
+    height: 32px;
+    justify-content: center;
+    padding: 4.4px 8.8px;
+    position: relative;
+}
+
+.dugmeOpsirnijeB{
+    align-items: center;
+    align-self: stretch;
+    border: 2px solid;
+    background-color: rgba(239, 241, 245);
+    border-color: rgba(239, 241, 245);
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    gap: 4.09px;
+    height: 45.04px;
+    width: 250px;
+    justify-content: center;
+    padding: 6.14px 12.28px;
+    position: relative;
+}
+
+.textOpsirnije{
+    color: rgba(52,99,232,1);
+    font-weight: 1000;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+    font-size: 20px;
+}
+
+.textKupite{
+    color: rgba(52,99,232,1);
+    font-weight: 700;
+    line-height: normal;
+    margin-top: -0.9px;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+    white-space: nowrap;
+    font-size: 20px;
+}
+
+.textKupiteB{
+    color: rgba(255,255,255,1);
+    font-weight: 700;
+    line-height: normal;
+    margin-top: -0.9px;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+    white-space: nowrap;
+    font-size: 20px;
+}
+
+
+.cardB{
+    align-items: flex-start;
+    background-color: rgba(52,99,232,1);
+    border-radius: 12.28px;
+    box-shadow: 0px 0px 15.39px #8da3ce;
+    display: flex;
+    flex-direction: column;
+    gap: 68px;
+    padding: 27.98px 20.99px 20.99px;
+    position: relative;
+    width: 273px;
+}
+
+.frame-48501{
+    align-items: flex-start;
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    gap: 69.96px;
+    position: relative;
+}
+
+.cp{
+    font-size: 10px;
+}
+
+.svi-paketi{
+    color: rgba(0,0,0,1);
+    font-weight: 400;
+    line-height: normal;
+    margin-right: 50px;
+    margin-top: 20px;
+    min-height: 21px;
+    min-width: 644px;
+    white-space: nowrap;
+}
+
+.svi-paketiB{
+    color: rgba(0,0,0,1);
+    font-weight: 400;
+    line-height: normal;
+    margin-right: 1px;
+    margin-top: 9px;
+    min-height: 21px;
+    min-width: 505px;
+    white-space: nowrap;
+}
+
+.oNamaFrejm{
+    background-color: rgba(52,99,232,1);
+    border-radius: 8.78px;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    margin-left: 3px;
+    margin-top: 116px;
+    padding: 45px 57px;
+    width: 1137px;
+}
+
+.busFrejm{
+    align-items: center;
+    background-color: rgba(52,99,232,1);
+    border-radius: 8.78px;
+    flex-direction: column;
+    gap: 19px;
+    margin-left: 1px;
+    margin-top: 24px;
+    padding: 30px 85px;
+    width: 1137px;
+}
+.oNamaNaslov{
+    align-self: stretch;
+    color: rgb(239, 241, 245);
+    font-weight: 500;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    font-size: 30px;
+}
+.oNamaText{
+    align-self: stretch;
+    color: rgb(239, 241, 245);
+    font-weight: 400;
+    line-height: 28.8px;
+    position: relative;
+    font-size: 20px;
+}
+
+.regDomena{
+    color:rgba(0,0,0,1);
+    font-weight: 400;
+    line-height: normal;
+    margin-right: 85px;
+    margin-top: 62px;
+    min-height: 35px;
+    min-width: 273px;
+    text-align: center;
+    white-space: nowrap;
+    font-size: 30px;
+}
+
+.domen{
+    left: 0;
+    letter-spacing: 0.29px;
+    line-height: 27.9px;
+    position: absolute;
+    top: -1px;
+    white-space: nowrap;
+}
+
+.cenaiStatus{
+    letter-spacing: 0.29px;
+    line-height: 27.9px;
+    margin-top: -1.29px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.table{
+    align-items: center;
+    border: 1.3px solid;
+    border-color: rgba(39,41,55,1);
+    border-radius: 22px;
+    display: flex;
+    flex-direction: column;
+    height: 581px;
+    justify-content: space-between;
+    margin-left: 3px;
+    margin-top: 64px;
+    padding: 0px 32px 20px;
+    position: relative;
+    width: 1137px;
+}
+
+.table-head{
+    align-items: flex-start;
+    border-color: #d8d9db;
+    align-self: stretch;
+    border-bottom-style:solid ;
+    border-bottom-width: 1.29px;
+    display: flex;
+    gap: 125.19px;
+    position: relative;
+}
+
+.domenFrame{
+    gap: 41.3px;
+    padding: 30px 0px;
+    width: 130.35px;
+    align-items: center;
+    display: flex;
+    position: relative;
+}
+
+.cenaFrame{
+    flex: 1;
+    gap: 41.3px;
+    padding: 30px 0px;
+    position: relative;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.statusFrame{
+    align-items: center;
+    display: flex;
+    gap: 41.3px;
+    justify-content: center;
+    padding: 30px 0px;
+    position: relative;
+    width: 254.24px;
+}
+
+.domenText{
+    letter-spacing: 0.31px;
+    line-height: 30px;
+    margin-top: -1.29px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.cenaT{
+    letter-spacing: 0.31px;
+    line-height: 30px;
+    margin-top: -1.29px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+}
+
+.proveriDostupnostText{
+    letter-spacing: 0.19px;
+    line-height: 18px;
+    margin-top: -1.29px;
+    position: relative;
+    width: fit-content;
+}
+
+.proveriDostupnostDugme{
+    align-items: center;
+    border: 1.3px solid;
+    border-color: rgba(39,41,55,1);
+    border-radius: 59.37px;
+    display: flex;
+    gap: 12.91px;
+    justify-content: center;
+    padding: 12.91px 28.39px;
+    position: relative;
+    width: fit-content;
+}
+
+.tableRow{
+    align-items: center;
+    background-color: rgba(249,249,251,1);
+    border-color: rgba(229,230,231,1);
+    align-self: stretch;
+    border-bottom-style: solid;
+    border-bottom-width: 1.29px;
+    display: flex;
+    gap: 125.19px;
+    position: relative;
+}
+
+.domenFrameTable{
+    align-items: center;
+    display: flex;
+    gap: 41.3px;
+    padding: 14px 0px;
+    position: relative;
+    width: 129.06px;
+}
+
+.cenaFrameTable{
+    align-items: center;
+    display: flex;
+    flex: 1;
+    gap: 41.3px;
+    justify-content: center;
+    padding: 14px 0px;
+    position: relative;
+}
+
+.statusFrameTable{
+    align-items: center;
+    display: flex;
+    gap: 41.3px;
+    justify-content: flex-end;
+    padding: 14px 0px;
+    position: relative;
+    width: fit-content;
+}
+
+.prelaziteFrame{
+    align-items: center;
+    background-color: rgba(52,99,232,1);
+    border-radius: 8.78px;
+    display: flex;
+    flex-direction: column;
+    gap: 19px;
+    justify-content: center;
+    margin-left: 3px;
+    margin-top: 101px;
+    padding: 30px 85px;
+    width: 1137px;
+}
+.prelaziteNaslov{
+    align-self: stretch;
+    color: rgb(239, 241, 245);
+    font-weight: 500;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    font-size: 30px;
+}
+.prelaziteText{
+    align-self: stretch;
+    color: rgb(239, 241, 245);
+    font-weight: 400;
+    line-height: 28.8px;
+    position: relative;
+    font-size: 20px;
+}
+
+.footer{
+    align-items: center;
+    border-color: #c0bfbf;
+    border-top-style: solid;
+    border-top-width: 1px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 70px;
+    padding: 75px 0px;
+    position: relative;
+    width: 1440px;
+}
+
+.flex-row{
+    align-items: flex-end;
+    display: flex;
+    height: 107px;
+    left: 0;
+    min-width: 1067px;
+    position: absolute;
+    top: 0;
+}
+
+.pitanje{
+    color: rgba(0,0,0,1);
+    font-weight: 400;
+    left: 0;
+    line-height: normal;
+    position: absolute;
+    top: -25px;
+    width: 300px;
+}
+
+
+.pozicija1{
+    height: 79px;
+    margin-bottom: 5.51px;
+    margin-left: 16px;
+    position: relative;
+    width: 254px;
+}
+
+.sadrzajFoot{
+    height: 196px;
+    min-width: 1067px;
+    position: relative;
+}
+
+.phone{
+    align-items: flex-start;
+    display: flex;
+    height: 22px;
+    left: 4px;
+    overflow: hidden;
+    position: absolute;
+    top: 65px;
+    width: 177px;
+}
+.phone-container{
+    height: 22px;
+    margin-top: 0;
+    position: relative;
+    width: 123px;
+}
+
+.pozicija2{
+    align-self: flex-start;
+    height: 103px;
+    margin-left: 364px;
+    position: relative;
+    width: 335px;
+}
+
+
+
+.mail{
+    height: 49px;
+    left: 0;
+    position: absolute;
+    top: 54px;
+    width: 335px;
+}
+
+.prijaviDugme{
+    background-color: rgba(52,99,232,1);
+    gap: 10px;
+    height: 35px;
+    left: 198px;
+    padding: 16px;
+    position: absolute;
+    top: 0;
+    width: 137px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.prijaviText{
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.5px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.span1{
+    color: rgb(239, 241, 245);
+    font-family: inter;
+    font-size: 20px;
+}
+
+
+.poljeMail{
+    align-items: center;
+    border: 1px solid;
+    border-color: #dfdfdf;
+    display: flex;
+    gap: 10px;
+    height: 35px;
+    justify-content: center;
+    left: 0;
+    padding: 16px 70px 16px 16px;
+    position: absolute;
+    top: 0;
+    width: 110px;
+}
+
+.unesiteMail{
+    color: #525252;
+    font-family: inter;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: -5.58px;
+    margin-right: -5.58px;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+}
+
+.prijaviteLista{
+    color: rgba(0,0,0,1);
+    font-family: inter;
+    font-size: 18px;
+    font-weight: 400;
+    height: 62px;
+    left: 7px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    width: 239px;
+}
+
+.flex-row1{
+    align-items: flex-start;
+    display: flex;
+    gap: 354px;
+    height: 59px;
+    left: 6px;
+    min-width: 909px;
+    position: absolute;
+    top: 137px;
+}
+.socialSve{
+    align-items: flex-start;
+    align-self: flex-end;
+    display: flex;
+    flex-direction: column;
+    min-height: 57px;
+    width: 370px;
+}
+
+.pratite{
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 3px;
+    min-height: 18px;
+    width: 300px;
+}
+
+.social{
+    height: 24px;
+    position: relative;
+    width: 360px;
+}
+
+.ikonice{
+    height: 24px;
+    position: relative;
+}
+
+.pibMaticni{
+    color: rgba(0,0,0,1);
+    font-family: inter;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 42px;
+    width: 185px;
+}
+
+.proba{
+    left:34px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 2px;
+}
+
+.desktop-4{
+    align-items: center;
+    background-color: rgba(255,255,255,1);
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    height: 1568px;
+    width: 1440px;
+}
+
